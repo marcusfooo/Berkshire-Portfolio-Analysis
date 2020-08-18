@@ -1,4 +1,4 @@
-# Berkshire-Portfolio-Analysis
+# Berkshire Portfolio Analysis
 
 This repository attempts to deconstruct and analyse the Berkshire Hathaway Portfolio and is split into 3 different notebooks:
 
