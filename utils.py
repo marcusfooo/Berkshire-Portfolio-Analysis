@@ -12,7 +12,7 @@ def annualize_vol(r, periods_per_year):
     """
     return r.std()*(periods_per_year**0.5)
 
-def sharpe_ratio(r, rfr=0.025, periods_per_year):
+def sharpe_ratio(r, rfr, periods_per_year):
     """
     Returns annualized sharpe ratio with rate r
     """
