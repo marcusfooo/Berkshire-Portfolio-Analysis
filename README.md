@@ -8,6 +8,7 @@ This repository attempts to deconstruct and analyse the Berkshire Hathaway Portf
 
 
 Resources:
+
 Fama French Data: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 Fama French Paper: https://www.ssrn.com/abstract=2287202
