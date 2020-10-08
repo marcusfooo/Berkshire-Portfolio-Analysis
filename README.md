@@ -14,4 +14,6 @@ Fama French Paper: https://www.ssrn.com/abstract=2287202
 
 Black Litterman paper: https://www.ssrn.com/abstract=1117574
 
-I intend to use this repo for conducting quant finance workshops at NTU, to give retail investors an insight and edge with optimizing their personal investment risks and portfolios. This is not meant to be taken as investment advice, but solely for educational purposes
+I intend to use this repo for conducting quant finance workshops at NTU, to give retail investors an insight and edge with optimizing their personal investment risks and portfolios. 
+
+**This is not meant to be taken as investment advice, but solely for educational purposes**
