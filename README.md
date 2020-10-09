@@ -15,4 +15,7 @@ Fama French Paper: https://www.ssrn.com/abstract=2287202
 
 Black Litterman paper: https://www.ssrn.com/abstract=1117574
 
+I would also highly recommend the EDHEC coursera course which I have based most of the learning materials from.
+Coursera: https://www.coursera.org/specializations/investment-management-python-machine-learning
+
 **This is not meant to be taken as investment advice, but solely for educational purposes**
